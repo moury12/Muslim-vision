@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561544737718",
+    "project_id": "muslim-vision-59abe",
+    "storage_bucket": "muslim-vision-59abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561544737718:android:496f7d8e24ab6f41fe0717",
+        "android_client_info": {
+          "package_name": "com.muslim_vision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNG7vj6OiMZXkBEHXKse4w2OB__6aUEMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

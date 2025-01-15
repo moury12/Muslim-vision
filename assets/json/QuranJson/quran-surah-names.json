@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "১",
+    "name_in_bangla": "আল ফাতিহা",
+    "name_in_arabic": "الفاتحة",
+    "name_in_english": "",
+    "meaning_in_bangla": "সূচনা",
+    "total_ayah": "৭",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০০৫"
+  },
+  {
+    "id": "২",
+    "name_in_bangla": "আল বাকারা",
+    "name_in_arabic": "البقرة",
+    "name_in_english": "",
+    "meaning_in_bangla": "বকনা-বাছুর-গরু",
+    "total_ayah": "২৮৬",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৮৭"
+  },
+  {
+    "id": "৩",
+    "name_in_bangla": "আল ইমরান",
+    "name_in_arabic": "آل عمران",
+    "name_in_english": "",
+    "meaning_in_bangla": "ইমরানের পরিবার",
+    "total_ayah": "২০০",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৮৯"
+  },
+  {
+    "id": "৪",
+    "name_in_bangla": "আন নিসা",
+    "name_in_arabic": "النّساء",
+    "name_in_english": "",
+    "meaning_in_bangla": "মহিলা",
+    "total_ayah": "১৭৬",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৯২"
+  },
+  {
+    "id": "৫",
+    "name_in_bangla": "আল মায়িদাহ",
+    "name_in_arabic": "المآئدة",
+    "name_in_english": "",
+    "meaning_in_bangla": "খাদ্য পরিবেশিত টেবিল",
+    "total_ayah": "১২০",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১১২"
+  },
+  {
+    "id": "৬",
+    "name_in_bangla": "আল আনআম",
+    "name_in_arabic": "الانعام",
+    "name_in_english": "",
+    "meaning_in_bangla": "গৃৃহপালিত পশু",
+    "total_ayah": "১৬৫",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৫৫"
+  },
+  {
+    "id": "৭",
+    "name_in_bangla": "আল আরাফ",
+    "name_in_arabic": "الأعراف",
+    "name_in_english": "",
+    "meaning_in_bangla": "উচু স্থানসমূহ",
+    "total_ayah": "২০৬",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৩৯"
+  },
+  {
+    "id": "৮",
+    "name_in_bangla": "আল আনফাল",
+    "name_in_arabic": "الأنفال",
+    "name_in_english": "",
+    "meaning_in_bangla": "যুদ্ধে-লব্ধ ধনসম্পদ",
+    "total_ayah": "৭৫",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৮৮"
+  },
+  {
+    "id": "৯",
+    "name_in_bangla": "আত-তাওবাহ্‌",
+    "name_in_arabic": "التوبة",
+    "name_in_english": "",
+    "meaning_in_bangla": "অনুশোচনা",
+    "total_ayah": "১২৯",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১১৩"
+  },
+  {
+    "id": "১০",
+    "name_in_bangla": "ইউনুস",
+    "name_in_arabic": "يونس",
+    "name_in_english": "",
+    "meaning_in_bangla": "নবী ইউনুস",
+    "total_ayah": "১০৯",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৫১"
+  },
+  {
+    "id": "১১",
+    "name_in_bangla": "হুদ",
+    "name_in_arabic": "هود",
+    "name_in_english": "",
+    "meaning_in_bangla": "নবী হুদ",
+    "total_ayah": "১২৩",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৫২"
+  },
+  {
+    "id": "১২",
+    "name_in_bangla": "ইউসুফ",
+    "name_in_arabic": "يوسف",
+    "name_in_english": "",
+    "meaning_in_bangla": "নবী ইউসুফ",
+    "total_ayah": "১১১",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৫৩"
+  },
+  {
+    "id": "১৩",
+    "name_in_bangla": "আর-রাদ",
+    "name_in_arabic": "الرّعد",
+    "name_in_english": "",
+    "meaning_in_bangla": "বজ্রনাদ",
+    "total_ayah": "৪৩",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৯৬"
+  },
+  {
+    "id": "১৪",
+    "name_in_bangla": "ইব্রাহীম",
+    "name_in_arabic": "إبراهيم",
+    "name_in_english": "",
+    "meaning_in_bangla": "নবী ইব্রাহিম",
+    "total_ayah": "৫২",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৭২"
+  },
+  {
+    "id": "১৫",
+    "name_in_bangla": "সূরা আল হিজর",
+    "name_in_arabic": "الحجر",
+    "name_in_english": "",
+    "meaning_in_bangla": "পাথুরে পাহাড়",
+    "total_ayah": "৯৯",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৫৪"
+  },
+  {
+    "id": "১৬",
+    "name_in_bangla": "আন নাহল",
+    "name_in_arabic": "النّحل",
+    "name_in_english": "",
+    "meaning_in_bangla": "মৌমাছি",
+    "total_ayah": "১২৮",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৭০"
+  },
+  {
+    "id": "১৭",
+    "name_in_bangla": "বনী-ইসরাঈল",
+    "name_in_arabic": "الإسرا",
+    "name_in_english": "",
+    "meaning_in_bangla": "ইসরায়েলের সন্তানগণ",
+    "total_ayah": "১১১",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৫০"
+  },
+  {
+    "id": "১৮",
+    "name_in_bangla": "আল কাহফ",
+    "name_in_arabic": "الكهف",
+    "name_in_english": "",
+    "meaning_in_bangla": "গুহা",
+    "total_ayah": "১১০",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৬৯"
+  },
+  {
+    "id": "১৯",
+    "name_in_bangla": "মারইয়াম",
+    "name_in_arabic": "مريم",
+    "name_in_english": "",
+    "meaning_in_bangla": "মারিয়াম (নবী ঈসার মা)",
+    "total_ayah": "৯৮",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৪৪"
+  },
+  {
+    "id": "২০",
+    "name_in_bangla": "ত্বোয়া-হা",
+    "name_in_arabic": "طه",
+    "name_in_english": "",
+    "meaning_in_bangla": "ত্বোয়া-হা",
+    "total_ayah": "১৩৫",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৪৫"
+  },
+  {
+    "id": "২১",
+    "name_in_bangla": "আল আম্বিয়া",
+    "name_in_arabic": "الأنبياء",
+    "name_in_english": "",
+    "meaning_in_bangla": "নবীগণ",
+    "total_ayah": "১১২",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৭৩"
+  },
+  {
+    "id": "২২",
+    "name_in_bangla": "আল হাজ্জ্ব",
+    "name_in_arabic": "الحجّ",
+    "name_in_english": "",
+    "meaning_in_bangla": "হাজ্জ",
+    "total_ayah": "৭৮",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১০৩"
+  },
+  {
+    "id": "২৩",
+    "name_in_bangla": "আল মু'মিনূন",
+    "name_in_arabic": "المؤمنون",
+    "name_in_english": "",
+    "meaning_in_bangla": "বিশ্বাসীগণ",
+    "total_ayah": "১১৮",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৭৪"
+  },
+  {
+    "id": "২৪",
+    "name_in_bangla": "আন নূর",
+    "name_in_arabic": "النّور",
+    "name_in_english": "",
+    "meaning_in_bangla": "আলো,জ্যোতি",
+    "total_ayah": "৬৪",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১০২"
+  },
+  {
+    "id": "২৫",
+    "name_in_bangla": "আল ফুরকান",
+    "name_in_arabic": "الفرقان",
+    "name_in_english": "",
+    "meaning_in_bangla": "সত্য মিথ্যার পার্থক্য নির্ধারণকারী গ্রন্থ",
+    "total_ayah": "৭৭",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৪২"
+  },
+  {
+    "id": "২৬",
+    "name_in_bangla": "আশ শুআরা",
+    "name_in_arabic": "الشّعراء",
+    "name_in_english": "",
+    "meaning_in_bangla": "কবিগণ",
+    "total_ayah": "২২৭",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৪৭"
+  },
+  {
+    "id": "২৭",
+    "name_in_bangla": "আন নম্‌ল",
+    "name_in_arabic": "النّمل",
+    "name_in_english": "",
+    "meaning_in_bangla": "পিপীলিকা",
+    "total_ayah": "৯৩",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৪৮"
+  },
+  {
+    "id": "২৮",
+    "name_in_bangla": "আল কাসাস",
+    "name_in_arabic": "القصص",
+    "name_in_english": "",
+    "meaning_in_bangla": "ঘটনা,কাহিনী",
+    "total_ayah": "৮৮",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৪৯"
+  },
+  {
+    "id": "২৯",
+    "name_in_bangla": "আল আনকাবূত",
+    "name_in_arabic": "العنكبوت",
+    "name_in_english": "",
+    "meaning_in_bangla": "মাকড়সা",
+    "total_ayah": "৬৯",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৮৫"
+  },
+  {
+    "id": "৩০",
+    "name_in_bangla": "আর রুম",
+    "name_in_arabic": "الرّوم",
+    "name_in_english": "",
+    "meaning_in_bangla": "রোমান জাতি",
+    "total_ayah": "৬০",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৮৪"
+  },
+  {
+    "id": "৩১",
+    "name_in_bangla": "লোক্‌মান",
+    "name_in_arabic": "لقمان",
+    "name_in_english": "",
+    "meaning_in_bangla": "একজন জ্ঞানী ব্যক্তি",
+    "total_ayah": "৩৪",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৫৭"
+  },
+  {
+    "id": "৩২",
+    "name_in_bangla": "আস সেজদাহ্",
+    "name_in_arabic": "السّجدة",
+    "name_in_english": "",
+    "meaning_in_bangla": "সিজদাহ",
+    "total_ayah": "৩০",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৭৫"
+  },
+  {
+    "id": "৩৩",
+    "name_in_bangla": "আল আহ্‌যাব",
+    "name_in_arabic": "الْأحزاب",
+    "name_in_english": "",
+    "meaning_in_bangla": "জোট",
+    "total_ayah": "৭৩",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৯০"
+  },
+  {
+    "id": "৩৪",
+    "name_in_bangla": "সাবা",
+    "name_in_arabic": "سبا",
+    "name_in_english": "",
+    "meaning_in_bangla": "রানী সাবা",
+    "total_ayah": "৫৪",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৫৮"
+  },
+  {
+    "id": "৩৫",
+    "name_in_bangla": "ফাতির",
+    "name_in_arabic": "فاطر",
+    "name_in_english": "",
+    "meaning_in_bangla": "আদি স্রষ্টা",
+    "total_ayah": "৪৫",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৪৩"
+  },
+  {
+    "id": "৩৬",
+    "name_in_bangla": "ইয়াসীন",
+    "name_in_arabic": "يس",
+    "name_in_english": "",
+    "meaning_in_bangla": "ইয়াসীন",
+    "total_ayah": "৮৩",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৪১"
+  },
+  {
+    "id": "৩৭",
+    "name_in_bangla": "আস ছাফ্‌ফাত",
+    "name_in_arabic": "الصّافات",
+    "name_in_english": "",
+    "meaning_in_bangla": "সারিবদ্ধভাবে দাড়ানো",
+    "total_ayah": "১৮২",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৫৬"
+  },
+  {
+    "id": "৩৮",
+    "name_in_bangla": "ছোয়াদ",
+    "name_in_arabic": "ص",
+    "name_in_english": "",
+    "meaning_in_bangla": "আরবি বর্ণ",
+    "total_ayah": "৮৮",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৩৮"
+  },
+  {
+    "id": "৩৯",
+    "name_in_bangla": "আয্‌-যুমার",
+    "name_in_arabic": "الزّمر",
+    "name_in_english": "",
+    "meaning_in_bangla": "দল-বদ্ধ জনতা",
+    "total_ayah": "৭৫",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৫৯"
+  },
+  {
+    "id": "৪০",
+    "name_in_bangla": "আল মু'মিন",
+    "name_in_arabic": "غافر",
+    "name_in_english": "",
+    "meaning_in_bangla": "বিশ্বাসী",
+    "total_ayah": "৮৫",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৬০"
+  },
+  {
+    "id": "৪১",
+    "name_in_bangla": "হা-মীম সেজদাহ্‌",
+    "name_in_arabic": "فصّلت",
+    "name_in_english": "",
+    "meaning_in_bangla": "সুস্পষ্ট বিবরণ",
+    "total_ayah": "৫৪",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৬১"
+  },
+  {
+    "id": "৪২",
+    "name_in_bangla": "আশ্‌-শূরা",
+    "name_in_arabic": "الشّورى",
+    "name_in_english": "",
+    "meaning_in_bangla": "পরামর্শ",
+    "total_ayah": "৫৩",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৬২"
+  },
+  {
+    "id": "৪৩",
+    "name_in_bangla": "আয্‌-যুখরুফ",
+    "name_in_arabic": "الزّخرف",
+    "name_in_english": "",
+    "meaning_in_bangla": "সোনাদানা",
+    "total_ayah": "৮৯",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৬৩"
+  },
+  {
+    "id": "৪৪",
+    "name_in_bangla": "আদ-দোখান",
+    "name_in_arabic": "الدّخان",
+    "name_in_english": "",
+    "meaning_in_bangla": "ধোঁয়া",
+    "total_ayah": "৫৯",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৬৪"
+  },
+  {
+    "id": "৪৫",
+    "name_in_bangla": "আল জাসিয়াহ",
+    "name_in_arabic": "الجاثية",
+    "name_in_english": "",
+    "meaning_in_bangla": "নতজানু",
+    "total_ayah": "৩৭",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৬৫"
+  },
+  {
+    "id": "৪৬",
+    "name_in_bangla": "আল আহ্‌ক্বাফ",
+    "name_in_arabic": "الأحقاف",
+    "name_in_english": "",
+    "meaning_in_bangla": "বালুর পাহাড়",
+    "total_ayah": "৩৫",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৬৬"
+  },
+  {
+    "id": "৪৭",
+    "name_in_bangla": "মুহাম্মদ",
+    "name_in_arabic": "محمّد",
+    "name_in_english": "",
+    "meaning_in_bangla": "নবী মুহাম্মদ",
+    "total_ayah": "৩৮",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৯৫"
+  },
+  {
+    "id": "৪৮",
+    "name_in_bangla": "আল ফাত্‌হ",
+    "name_in_arabic": "الفتح",
+    "name_in_english": "",
+    "meaning_in_bangla": "বিজয় (মক্কা বিজয়)",
+    "total_ayah": "২৯",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১১১"
+  },
+  {
+    "id": "৪৯",
+    "name_in_bangla": "আল হুজুরাত",
+    "name_in_arabic": "الحجرات",
+    "name_in_english": "",
+    "meaning_in_bangla": "বাসগৃহসমূূহ",
+    "total_ayah": "১৮",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১০৬"
+  },
+  {
+    "id": "৫০",
+    "name_in_bangla": "ক্বাফ",
+    "name_in_arabic": "ق",
+    "name_in_english": "",
+    "meaning_in_bangla": "আরবি বর্ণ ক্বাফ",
+    "total_ayah": "৪৫",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৩৪"
+  },
+  {
+    "id": "৫১",
+    "name_in_bangla": "আয-যারিয়াত",
+    "name_in_arabic": "الذّاريات",
+    "name_in_english": "",
+    "meaning_in_bangla": "বিক্ষেপকারী বাতাস",
+    "total_ayah": "৬০",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৬৭"
+  },
+  {
+    "id": "৫২",
+    "name_in_bangla": "আত্ব তূর",
+    "name_in_arabic": "الطّور",
+    "name_in_english": "",
+    "meaning_in_bangla": "পাহাড়",
+    "total_ayah": "৪৯",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৭৬"
+  },
+  {
+    "id": "৫৩",
+    "name_in_bangla": "আন-নাজম",
+    "name_in_arabic": "النّجْم",
+    "name_in_english": "",
+    "meaning_in_bangla": "তারা",
+    "total_ayah": "৬২",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০২৩"
+  },
+  {
+    "id": "৫৪",
+    "name_in_bangla": "আল ক্বামার",
+    "name_in_arabic": "القمر",
+    "name_in_english": "",
+    "meaning_in_bangla": "চন্দ্র",
+    "total_ayah": "৫৫",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৩৭"
+  },
+  {
+    "id": "৫৫",
+    "name_in_bangla": "আর রাহমান",
+    "name_in_arabic": "الرّحْمن",
+    "name_in_english": "",
+    "meaning_in_bangla": "অনন্ত করুণাময়",
+    "total_ayah": "৭৮",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৯৭"
+  },
+  {
+    "id": "৫৬",
+    "name_in_bangla": "আল-ওয়াকিয়াহ",
+    "name_in_arabic": "الواقعة",
+    "name_in_english": "",
+    "meaning_in_bangla": "নিশ্চিত ঘটনা",
+    "total_ayah": "৯৬",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৪৬"
+  },
+  {
+    "id": "৫৭",
+    "name_in_bangla": "আল-হাদীদ",
+    "name_in_arabic": "الحديد",
+    "name_in_english": "",
+    "meaning_in_bangla": "লোহা",
+    "total_ayah": "২৯",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৯৪"
+  },
+  {
+    "id": "৫৮",
+    "name_in_bangla": "আল-মুজাদালাহ",
+    "name_in_arabic": "المجادلة",
+    "name_in_english": "",
+    "meaning_in_bangla": "অনুযোগকারিণী",
+    "total_ayah": "২২",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১০৫"
+  },
+  {
+    "id": "৫৯",
+    "name_in_bangla": "আল-হাশর",
+    "name_in_arabic": "الحشْر",
+    "name_in_english": "",
+    "meaning_in_bangla": "সমাবেশ",
+    "total_ayah": "২৪",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১০১"
+  },
+  {
+    "id": "৬০",
+    "name_in_bangla": "আল-মুমতাহিনাহ",
+    "name_in_arabic": "الممتحنة",
+    "name_in_english": "",
+    "meaning_in_bangla": "নারী, যাকে পরীক্ষা করা হবে",
+    "total_ayah": "১৩",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৯১"
+  },
+  {
+    "id": "৬১",
+    "name_in_bangla": "আস-সাফ",
+    "name_in_arabic": "الصّفّ",
+    "name_in_english": "",
+    "meaning_in_bangla": "সারবন্দী সৈন্যদল",
+    "total_ayah": "১৪",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১০৯"
+  },
+  {
+    "id": "৬২",
+    "name_in_bangla": "আল-জুমুআ",
+    "name_in_arabic": "الجمعة",
+    "name_in_english": "",
+    "meaning_in_bangla": "সম্মেলন/শুক্রবার",
+    "total_ayah": "১১",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১১০"
+  },
+  {
+    "id": "৬৩",
+    "name_in_bangla": "আল-মুনাফিকুন",
+    "name_in_arabic": "المنافقون",
+    "name_in_english": "",
+    "meaning_in_bangla": "কপট বিশ্বাসীগণ",
+    "total_ayah": "১১",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১০৪"
+  },
+  {
+    "id": "৬৪",
+    "name_in_bangla": "আত-তাগাবুন",
+    "name_in_arabic": "التّغابن",
+    "name_in_english": "",
+    "meaning_in_bangla": "মোহ অপসারণ",
+    "total_ayah": "১৮",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১০৮"
+  },
+  {
+    "id": "৬৫",
+    "name_in_bangla": "আত-তালাক",
+    "name_in_arabic": "الطّلاق",
+    "name_in_english": "",
+    "meaning_in_bangla": "তালাক,বন্ধনমুক্তি",
+    "total_ayah": "১২",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৯৯"
+  },
+  {
+    "id": "৬৬",
+    "name_in_bangla": "আত-তাহরীম",
+    "name_in_arabic": "التّحريم",
+    "name_in_english": "",
+    "meaning_in_bangla": "নিষিদ্ধকরণ",
+    "total_ayah": "১২",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১০৭"
+  },
+  {
+    "id": "৬৭",
+    "name_in_bangla": "আল-মুলক",
+    "name_in_arabic": "الملك",
+    "name_in_english": "",
+    "meaning_in_bangla": "সার্বভৌম কর্তৃত্ব",
+    "total_ayah": "৩০",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৭৭"
+  },
+  {
+    "id": "৬৮",
+    "name_in_bangla": "আল-কলম",
+    "name_in_arabic": "القلم",
+    "name_in_english": "",
+    "meaning_in_bangla": "কলম",
+    "total_ayah": "৫২",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০০২"
+  },
+  {
+    "id": "৬৯",
+    "name_in_bangla": "আল-হাক্কাহ",
+    "name_in_arabic": "الحآقّة",
+    "name_in_english": "",
+    "meaning_in_bangla": "নিশ্চিত সত্য",
+    "total_ayah": "৫২",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৭৮"
+  },
+  {
+    "id": "৭০",
+    "name_in_bangla": "আল-মাআরিজ",
+    "name_in_arabic": "المعارج",
+    "name_in_english": "",
+    "meaning_in_bangla": "উন্নয়নের সোপান",
+    "total_ayah": "৪৪",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৭৯"
+  },
+  {
+    "id": "৭১",
+    "name_in_bangla": "নূহ",
+    "name_in_arabic": "نوح",
+    "name_in_english": "",
+    "meaning_in_bangla": "নবী নূহ",
+    "total_ayah": "২৮",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৭১"
+  },
+  {
+    "id": "৭২",
+    "name_in_bangla": "আল জ্বিন",
+    "name_in_arabic": "الجنّ",
+    "name_in_english": "",
+    "meaning_in_bangla": "জ্বিন সম্প্রদায়",
+    "total_ayah": "২৮",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৪০"
+  },
+  {
+    "id": "৭৩",
+    "name_in_bangla": "আল মুজাম্মিল",
+    "name_in_arabic": "المزّمّل",
+    "name_in_english": "",
+    "meaning_in_bangla": "বস্ত্র আচ্ছাদনকারী",
+    "total_ayah": "২০",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০০৩"
+  },
+  {
+    "id": "৭৪",
+    "name_in_bangla": "আল মুদ্দাস্সির",
+    "name_in_arabic": "المدّشّر",
+    "name_in_english": "",
+    "meaning_in_bangla": "পোশাক পরিহিত",
+    "total_ayah": "৫৬",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০০৪"
+  },
+  {
+    "id": "৭৫",
+    "name_in_bangla": "আল-ক্বিয়ামাহ",
+    "name_in_arabic": "القيامة",
+    "name_in_english": "",
+    "meaning_in_bangla": "পুনরুথান",
+    "total_ayah": "৪০",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৩১"
+  },
+  {
+    "id": "৭৬",
+    "name_in_bangla": "আদ-দাহর",
+    "name_in_arabic": "الدَّهْرِ",
+    "name_in_english": "",
+    "meaning_in_bangla": "মানুষ",
+    "total_ayah": "৩১",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৯৮"
+  },
+  {
+    "id": "৭৭",
+    "name_in_bangla": "আল-মুরসালাত",
+    "name_in_arabic": "المرسلت",
+    "name_in_english": "",
+    "meaning_in_bangla": "প্রেরিত পুরুষবৃন্দ",
+    "total_ayah": "৫০",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৩৩"
+  },
+  {
+    "id": "৭৮",
+    "name_in_bangla": "আন নাবা",
+    "name_in_arabic": "النّبا",
+    "name_in_english": "",
+    "meaning_in_bangla": "মহাসংবাদ",
+    "total_ayah": "৪০",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৮০"
+  },
+  {
+    "id": "৭৯",
+    "name_in_bangla": "আন নাযিয়াত",
+    "name_in_arabic": "النّزعت",
+    "name_in_english": "",
+    "meaning_in_bangla": "প্রচেষ্টাকারী",
+    "total_ayah": "৪৬",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৮১"
+  },
+  {
+    "id": "৮০",
+    "name_in_bangla": "আবাসা",
+    "name_in_arabic": "عبس",
+    "name_in_english": "",
+    "meaning_in_bangla": "তিনি ভ্রুকুটি করলেন",
+    "total_ayah": "৪২",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০২৪"
+  },
+  {
+    "id": "৮১",
+    "name_in_bangla": "আত-তাকভীর",
+    "name_in_arabic": "التّكوير",
+    "name_in_english": "",
+    "meaning_in_bangla": "অন্ধকারাচ্ছন্ন",
+    "total_ayah": "২৯",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০০৭"
+  },
+  {
+    "id": "৮২",
+    "name_in_bangla": "আল-ইনফিতার",
+    "name_in_arabic": "الانفطار",
+    "name_in_english": "",
+    "meaning_in_bangla": "বিদীর্ণ করা",
+    "total_ayah": "১৯",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৮২"
+  },
+  {
+    "id": "৮৩",
+    "name_in_bangla": "আত মুত্বাফ্‌ফিফীন",
+    "name_in_arabic": "المطفّفين",
+    "name_in_english": "",
+    "meaning_in_bangla": "প্রতারকগণ",
+    "total_ayah": "৩৬",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৮৬"
+  },
+  {
+    "id": "৮৪",
+    "name_in_bangla": "আল ইন‌শিকাক",
+    "name_in_arabic": "الانشقاق",
+    "name_in_english": "",
+    "meaning_in_bangla": "খন্ড-বিখন্ড করণ",
+    "total_ayah": "২৫",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৮৩"
+  },
+  {
+    "id": "৮৫",
+    "name_in_bangla": "আল-বুরুজ",
+    "name_in_arabic": "البروج",
+    "name_in_english": "",
+    "meaning_in_bangla": "নক্ষত্রপুঞ্জ",
+    "total_ayah": "২২",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০২৭"
+  },
+  {
+    "id": "৮৬",
+    "name_in_bangla": "আত-তারিক্ব",
+    "name_in_arabic": "الطّارق",
+    "name_in_english": "",
+    "meaning_in_bangla": "রাতের আগন্তুক",
+    "total_ayah": "১৭",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৩৬"
+  },
+  {
+    "id": "৮৭",
+    "name_in_bangla": "আল আ'লা",
+    "name_in_arabic": "الأعلى",
+    "name_in_english": "",
+    "meaning_in_bangla": "সর্বোর্ধ্ব",
+    "total_ayah": "১৯",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০০৮"
+  },
+  {
+    "id": "৮৮",
+    "name_in_bangla": "আল গাশিয়াহ্‌",
+    "name_in_arabic": "الغاشية",
+    "name_in_english": "",
+    "meaning_in_bangla": "বিহ্বলকর ঘটনা",
+    "total_ayah": "২৬",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৬৮"
+  },
+  {
+    "id": "৮৯",
+    "name_in_bangla": "আল ফাজ্‌র",
+    "name_in_arabic": "الفجر",
+    "name_in_english": "",
+    "meaning_in_bangla": "ভোরবেলা",
+    "total_ayah": "৩০",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০১০"
+  },
+  {
+    "id": "৯০",
+    "name_in_bangla": "আল বালাদ",
+    "name_in_arabic": "البلد",
+    "name_in_english": "",
+    "meaning_in_bangla": "নগর",
+    "total_ayah": "২০",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৩৫"
+  },
+  {
+    "id": "৯১",
+    "name_in_bangla": "আশ-শাম্‌স",
+    "name_in_arabic": "الشّمس",
+    "name_in_english": "",
+    "meaning_in_bangla": "সূর্য্য",
+    "total_ayah": "১৫",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০২৬"
+  },
+  {
+    "id": "৯২",
+    "name_in_bangla": "আল লাইল",
+    "name_in_arabic": "الليل",
+    "name_in_english": "",
+    "meaning_in_bangla": "রাত্রি",
+    "total_ayah": "২১",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০০৯"
+  },
+  {
+    "id": "৯৩",
+    "name_in_bangla": "আদ-দুহা",
+    "name_in_arabic": "الضحى",
+    "name_in_english": "",
+    "meaning_in_bangla": "পূর্বাহ্নের সূর্যকিরণ",
+    "total_ayah": "১১",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০১১"
+  },
+  {
+    "id": "৯৪",
+    "name_in_bangla": "আল ইনশিরাহ",
+    "name_in_arabic": "الشرح",
+    "name_in_english": "",
+    "meaning_in_bangla": "বক্ষ প্রশস্তকরণ",
+    "total_ayah": "৮",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০১২"
+  },
+  {
+    "id": "৯৫",
+    "name_in_bangla": "ত্বীন",
+    "name_in_arabic": "التين",
+    "name_in_english": "",
+    "meaning_in_bangla": "ডুমুর",
+    "total_ayah": "৮",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০২৮"
+  },
+  {
+    "id": "৯৬",
+    "name_in_bangla": "আলাক্ব",
+    "name_in_arabic": "العلق",
+    "name_in_english": "",
+    "meaning_in_bangla": "রক্তপিন্ড",
+    "total_ayah": "১৯",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০০১"
+  },
+  {
+    "id": "৯৭",
+    "name_in_bangla": "ক্বদর",
+    "name_in_arabic": "القدر",
+    "name_in_english": "",
+    "meaning_in_bangla": "পরিমাণ",
+    "total_ayah": "৫",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০২৫"
+  },
+  {
+    "id": "৯৮",
+    "name_in_bangla": "বাইয়্যিনাহ",
+    "name_in_arabic": "البينة",
+    "name_in_english": "",
+    "meaning_in_bangla": "সুস্পষ্ট প্রমাণ",
+    "total_ayah": "৮",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১০০"
+  },
+  {
+    "id": "৯৯",
+    "name_in_bangla": "যিলযাল",
+    "name_in_arabic": "الزلزلة",
+    "name_in_english": "",
+    "meaning_in_bangla": "ভূমিকম্প",
+    "total_ayah": "৮",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০৯৩"
+  },
+  {
+    "id": "১০০",
+    "name_in_bangla": "আল-আদিয়াত",
+    "name_in_arabic": "العاديات",
+    "name_in_english": "",
+    "meaning_in_bangla": "অভিযানকারী",
+    "total_ayah": "১১",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০১৪"
+  },
+  {
+    "id": "১০১",
+    "name_in_bangla": "ক্বারিয়াহ",
+    "name_in_arabic": "القارعة",
+    "name_in_english": "",
+    "meaning_in_bangla": "মহাসংকট",
+    "total_ayah": "১১",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৩০"
+  },
+  {
+    "id": "১০২",
+    "name_in_bangla": "তাকাসুর",
+    "name_in_arabic": "التكاثر",
+    "name_in_english": "",
+    "meaning_in_bangla": "প্রাচুর্যের প্রতিযোগিতা",
+    "total_ayah": "৮",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০১৬"
+  },
+  {
+    "id": "১০৩",
+    "name_in_bangla": "আছর",
+    "name_in_arabic": "العصر",
+    "name_in_english": "",
+    "meaning_in_bangla": "অপরাহ্ন",
+    "total_ayah": "৩",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০১৩"
+  },
+  {
+    "id": "১০৪",
+    "name_in_bangla": "হুমাযাহ",
+    "name_in_arabic": "الهمزة",
+    "name_in_english": "",
+    "meaning_in_bangla": "পরনিন্দাকারী",
+    "total_ayah": "৯",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০৩২"
+  },
+  {
+    "id": "১০৫",
+    "name_in_bangla": "ফীল",
+    "name_in_arabic": "الفيل",
+    "name_in_english": "",
+    "meaning_in_bangla": "হাতি",
+    "total_ayah": "৫",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০১৯"
+  },
+  {
+    "id": "১০৬",
+    "name_in_bangla": "কুরাইশ",
+    "name_in_arabic": "قريش",
+    "name_in_english": "",
+    "meaning_in_bangla": "কুরাইশ গোত্র",
+    "total_ayah": "৪",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০২৯"
+  },
+  {
+    "id": "১০৭",
+    "name_in_bangla": "মাউন",
+    "name_in_arabic": "الماعون",
+    "name_in_english": "",
+    "meaning_in_bangla": "সাহায্য-সহায়তা",
+    "total_ayah": "৭",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০১৭"
+  },
+  {
+    "id": "১০৮",
+    "name_in_bangla": "কাওসার",
+    "name_in_arabic": "الكوثر",
+    "name_in_english": "",
+    "meaning_in_bangla": "প্রাচুর্য",
+    "total_ayah": "৩",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০১৫"
+  },
+  {
+    "id": "১০৯",
+    "name_in_bangla": "কাফিরুন",
+    "name_in_arabic": "الكافرون",
+    "name_in_english": "",
+    "meaning_in_bangla": "অস্বীকারকারীগণ",
+    "total_ayah": "৬",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০১৮"
+  },
+  {
+    "id": "১১০",
+    "name_in_bangla": "নাসর",
+    "name_in_arabic": "النصر",
+    "name_in_english": "",
+    "meaning_in_bangla": "বিজয়,সাহায্য",
+    "total_ayah": "৩",
+    "revelation_place": "মদীনা",
+    "revelation_order": "১১৪"
+  },
+  {
+    "id": "১১১",
+    "name_in_bangla": "লাহাব",
+    "name_in_arabic": "المسد",
+    "name_in_english": "",
+    "meaning_in_bangla": "জ্বলন্ত অঙ্গার",
+    "total_ayah": "৫",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০০৬"
+  },
+  {
+    "id": "১১২",
+    "name_in_bangla": "আল-ইখলাস",
+    "name_in_arabic": "الإخلاص",
+    "name_in_english": "",
+    "meaning_in_bangla": "একনিষ্ঠতা",
+    "total_ayah": "৪",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০২২"
+  },
+  {
+    "id": "১১৩",
+    "name_in_bangla": "আল-ফালাক",
+    "name_in_arabic": "الفلق",
+    "name_in_english": "",
+    "meaning_in_bangla": "নিশিভোর",
+    "total_ayah": "৫",
+    "revelation_place": "মদীনা",
+    "revelation_order": "০২০"
+  },
+  {
+    "id": "১১৪",
+    "name_in_bangla": "আন-নাস",
+    "name_in_arabic": "الناس",
+    "name_in_english": "",
+    "meaning_in_bangla": "মানবজাতি",
+    "total_ayah": "৬",
+    "revelation_place": "মক্কা",
+    "revelation_order": "০২১"
+  }
+]

@@ -1,0 +1,27 @@
+// ignore_for_file: library_private_types_in_public_api
+
+import 'package:flutter/material.dart';
+
+class WidgetToImage extends StatefulWidget {
+  final Function(GlobalKey key) builder;
+
+  const WidgetToImage({super.key, 
+    required this.builder,
+
+  }) ;
+
+  @override
+  _WidgetToImageState createState() => _WidgetToImageState();
+}
+
+class _WidgetToImageState extends State<WidgetToImage> {
+  final globalKey = GlobalKey();
+
+  @override
+  Widget build(BuildContext context) {
+    return RepaintBoundary(
+      key: globalKey,
+      child: widget.builder(globalKey),
+    );
+  }
+}
